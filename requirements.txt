@@ -1,0 +1,4 @@
+pony==0.6.4
+six==1.10.0
+tornado==4.3
+websocket-client==0.35.0
